@@ -1,3 +1,6 @@
 [submodule "cmake"]
 	path = cmake
 	url = https://git.stabletec.com/other/cmake-scripts.git
+[submodule "extern/glfw"]
+	path = extern/glfw
+	url = https://github.com/glfw/glfw.git
